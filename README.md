@@ -16,6 +16,11 @@ Folder introduction
 data_Dome: contain the study data of the Wulongshan Dome  
 Output: save the reconstruction results. You could create one if this folder doesn't exist in the project.  
 
+Recommend additional open library:
+https://www.mathworks.com/matlabcentral/fileexchange/31694-fgt-fold-geometry-toolbox  
+https://github.com/Loop3D/FoldOptLib  
+
+
 # 中文说明书
 
 程序项目说明TectonicReconstruction
@@ -29,4 +34,8 @@ structural element feature constraints》
 
 文件夹说明  
 data_Dome: 五龙山穹隆的实验数据  
-Output:保存重建结果的文件夹。如果项目内不存在这个文件夹，你可以自己创建一个。  
+Output:保存重建结果的文件夹。如果项目内不存在这个文件夹，你可以自己创建一个。 
+
+推荐额外的开源库：
+https://www.mathworks.com/matlabcentral/fileexchange/31694-fgt-fold-geometry-toolbox  
+https://github.com/Loop3D/FoldOptLib  
