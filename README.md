@@ -7,6 +7,8 @@ Project name: TectonicReconstruction
 This project can reconstruct the denuded stratigraphic paleosurfaces of diverse folds, which belongs to the paper 《Reconstruction of denuded stratigraphic paleosurfaces of diverse folds based on
 structural element feature constraints》
 
+Project entrance: TectonicReconstructEntry  
+
 Code Language: C#  
 Recommend compilation tool: Visual Studio 2019 and More advanced  
 Recommend compilation environment: FoldRestortEntry.dll---.NET Standard 2.0, other dlls---.NET Framework 4.7.2  
@@ -27,6 +29,8 @@ https://github.com/Loop3D/FoldOptLib
 
 该项目完成了不同褶皱被剥蚀的古表面的重建工作，率属于论文《Reconstruction of denuded stratigraphic paleosurfaces of diverse folds based on
 structural element feature constraints》
+
+项目入口：TectonicReconstructEntry
 
 程序语言：c#  
 推荐编译工具：visual studio 2019 and more  
