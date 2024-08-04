@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\FoldRestortEntry\\FoldRestortEntry.csproj": {}
+  },
+  "projects": {
+    "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\FoldRestortEntry\\FoldRestortEntry.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\FoldRestortEntry\\FoldRestortEntry.csproj",
+        "projectName": "FoldRestortEntry",
+        "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\FoldRestortEntry\\FoldRestortEntry.csproj",
+        "packagesPath": "C:\\Users\\haker\\.nuget\\packages\\",
+        "outputPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\FoldRestortEntry\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\haker\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GdalLib\\GdalLib.csproj": {
+                "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GdalLib\\GdalLib.csproj"
+              },
+              "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeoCommon\\GeoCommon.csproj": {
+                "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeoCommon\\GeoCommon.csproj"
+              },
+              "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeologicalEntity\\GeologicalEntity.csproj": {
+                "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeologicalEntity\\GeologicalEntity.csproj"
+              },
+              "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\Triangle\\Triangle.csproj": {
+                "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\Triangle\\Triangle.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Bezier": {
+              "target": "Package",
+              "version": "[0.9.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "SharpMap": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GdalLib\\GdalLib.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GdalLib\\GdalLib.csproj",
+        "projectName": "GdalLib",
+        "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GdalLib\\GdalLib.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeoCommon\\GeoCommon.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeoCommon\\GeoCommon.csproj",
+        "projectName": "GeoCommon",
+        "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeoCommon\\GeoCommon.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeologicalEntity\\GeologicalEntity.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeologicalEntity\\GeologicalEntity.csproj",
+        "projectName": "GeologicalEntity",
+        "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\GeologicalEntity\\GeologicalEntity.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\Triangle\\Triangle.csproj": {
+      "restore": {
+        "projectUniqueName": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\Triangle\\Triangle.csproj",
+        "projectName": "Triangle",
+        "projectPath": "E:\\PhD\\MyEssay\\SecondValley\\Manuscripts\\TectonicReconstruction\\Triangle\\Triangle.csproj",
+        "frameworks": {
+          "net40": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40": {}
+      }
+    }
+  }
+}

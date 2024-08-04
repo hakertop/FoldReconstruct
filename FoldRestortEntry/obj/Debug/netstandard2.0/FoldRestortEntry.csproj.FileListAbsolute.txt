@@ -1,0 +1,179 @@
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.deps.json
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.pdb
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GdalLib.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeoCommon.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeologicalEntity.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\ogr_csharp.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Triangle.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\gdal_csharp.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\osr_csharp.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GdalLib.pdb
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeoCommon.pdb
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeologicalEntity.pdb
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Triangle.pdb
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csprojAssemblyReference.cache
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.AssemblyInfoInputs.cache
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.AssemblyInfo.cs
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.CoreCompileInputs.cache
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.CopyComplete
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.dll
+E:\MyEssay\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.deps.json
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GdalLib.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeoCommon.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeologicalEntity.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\ogr_csharp.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Triangle.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\gdal_csharp.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\osr_csharp.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GdalLib.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeoCommon.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeologicalEntity.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Triangle.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csprojAssemblyReference.cache
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.AssemblyInfoInputs.cache
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.AssemblyInfo.cs
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.CoreCompileInputs.cache
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.CopyComplete
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Security.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Accessibility.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Deployment.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\PresentationCore.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\PresentationFramework.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\WindowsBase.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Xaml.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\ReachFramework.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Printing.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.Features.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.GeoTools.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.Features.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.GeoTools.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\MathNet.Numerics.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\MathNet.Numerics.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.Extended.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.Extended.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\geometry4Sharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.deps.json
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GdalLib.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\gdal_csharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeologicalEntity.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\geometry4Sharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\MathNet.Numerics.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.Features.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.GeoTools.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.Extended.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\ogr_csharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\osr_csharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\PresentationCore.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\PresentationFramework.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Triangle.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\WindowsBase.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Xaml.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Deployment.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\ReachFramework.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Printing.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Accessibility.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Security.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GdalLib.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeoCommon.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeologicalEntity.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Triangle.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\MathNet.Numerics.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.Features.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.GeoTools.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.Extended.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.AssemblyReference.cache
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.GeneratedMSBuildEditorConfig.editorconfig
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.AssemblyInfoInputs.cache
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.AssemblyInfo.cs
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.CoreCompileInputs.cache
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.CopyComplete
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.deps.json
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\FoldRestortEntry.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GdalLib.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\gdal_csharp.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeologicalEntity.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\geometry4Sharp.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\MathNet.Numerics.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.Features.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.GeoTools.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.Extended.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\ogr_csharp.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\osr_csharp.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\PresentationCore.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\PresentationFramework.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Triangle.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\WindowsBase.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Xaml.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\UIAutomationTypes.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\UIAutomationProvider.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Deployment.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\ReachFramework.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Printing.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Accessibility.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Security.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GdalLib.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeoCommon.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\GeologicalEntity.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Triangle.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\MathNet.Numerics.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.Features.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.GeoTools.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\NetTopologySuite.IO.ShapeFile.Extended.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\PresentationCore.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\PresentationFramework.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Windows.Forms.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\WindowsBase.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Xaml.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\UIAutomationTypes.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Configuration.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Windows.Input.Manipulations.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\UIAutomationProvider.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Deployment.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\ReachFramework.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Printing.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\Accessibility.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Security.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.AssemblyReference.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.GeneratedMSBuildEditorConfig.editorconfig
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.AssemblyInfoInputs.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.AssemblyInfo.cs
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.CoreCompileInputs.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.csproj.CopyComplete
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\FoldRestortEntry\obj\Debug\netstandard2.0\FoldRestortEntry.pdb

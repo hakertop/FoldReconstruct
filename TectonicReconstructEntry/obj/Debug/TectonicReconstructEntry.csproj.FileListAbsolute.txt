@@ -1,0 +1,280 @@
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe.config
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.pdb
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csprojAssemblyReference.cache
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CoreCompileInputs.cache
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CopyComplete
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.exe
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.pdb
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.dll
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.dll
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.dll
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.dll
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.dll
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.pdb
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.pdb
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.pdb
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.pdb
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.pdb
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Geometry.xml
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.dll
+E:\MyEssay\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.exe.config
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe.config
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csprojAssemblyReference.cache
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CoreCompileInputs.cache
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CopyComplete
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.exe
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Memory.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Buffers.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.UI.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Data.SqlClient.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Drawing.Common.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Resources.Extensions.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.UI.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Buffers.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Data.SqlClient.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Memory.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Resources.Extensions.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.BezierForm.resources
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.GenerateResource.cache
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.Features.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.Features.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\MathNet.Numerics.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\MathNet.Numerics.xml
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FaultRestortEntry.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FaultRestortEntry.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\geometry4Sharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.AssemblyReference.cache
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.BezierForm.resources
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.GenerateResource.cache
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CoreCompileInputs.cache
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.exe
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe.config
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FaultRestortEntry.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\MathNet.Numerics.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.Features.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.UI.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Buffers.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Data.SqlClient.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Drawing.Common.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Memory.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Resources.Extensions.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\geometry4Sharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FaultRestortEntry.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\MathNet.Numerics.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.Features.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.UI.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Buffers.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Data.SqlClient.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Memory.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Resources.Extensions.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CopyComplete
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.FoldPaleotopography.resources
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.MainWinForm.resources
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.Properties.Resources.resources
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe.config
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\MathNet.Numerics.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.Features.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.UI.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Buffers.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Data.SqlClient.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Drawing.Common.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Memory.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Resources.Extensions.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\geometry4Sharp.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\MathNet.Numerics.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.Features.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.UI.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Buffers.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Data.SqlClient.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Memory.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Resources.Extensions.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.AssemblyReference.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.Properties.Resources.resources
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.GenerateResource.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CoreCompileInputs.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CopyComplete
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.exe
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe.config
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.exe
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\TectonicReconstructEntry.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\MathNet.Numerics.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.Features.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.UI.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Buffers.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Data.SqlClient.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Drawing.Common.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Memory.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Resources.Extensions.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\geometry4Sharp.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\FoldRestortEntry.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GdalLib.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoCommon.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeologicalEntity.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Triangle.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\Common.Logging.Core.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\GeoAPI.CoordinateSystems.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\MathNet.Numerics.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.Features.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\SharpMap.UI.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Buffers.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Data.SqlClient.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Memory.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Numerics.Vectors.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Resources.Extensions.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.AssemblyReference.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.Properties.Resources.resources
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.GenerateResource.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CoreCompileInputs.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.csproj.CopyComplete
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.exe
+E:\PhD\MyEssay\SecondValley\Manuscripts\TectonicReconstruction\TectonicReconstructEntry\obj\Debug\TectonicReconstructEntry.pdb

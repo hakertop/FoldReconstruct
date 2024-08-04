@@ -1,0 +1,60 @@
+E:\PhD Research\PerfectProgram\GeoCommon\bin\Debug\GeoCommon.dll
+E:\PhD Research\PerfectProgram\GeoCommon\bin\Debug\GeoCommon.pdb
+E:\PhD Research\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.csproj.CoreCompileInputs.cache
+E:\PhD Research\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.dll
+E:\PhD Research\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.pdb
+E:\PhD Research\PerfectProgram\GeoCommon\bin\Debug\ogr_csharp.dll
+E:\PhD Research\PerfectProgram\GeoCommon\bin\Debug\osr_csharp.dll
+E:\PhD Research\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.csproj.CopyComplete
+E:\PhD Research\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.csprojAssemblyReference.cache
+E:\MyEssay\CanyonRecovery\PerfectProgram\GeoCommon\bin\Debug\GeoCommon.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GeoCommon\bin\Debug\GeoCommon.pdb
+E:\MyEssay\CanyonRecovery\PerfectProgram\GeoCommon\bin\Debug\ogr_csharp.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GeoCommon\bin\Debug\osr_csharp.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.csproj.CoreCompileInputs.cache
+E:\MyEssay\CanyonRecovery\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.csproj.CopyComplete
+E:\MyEssay\CanyonRecovery\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.dll
+E:\MyEssay\CanyonRecovery\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.pdb
+E:\MyEssay\SecondValley\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.dll
+E:\MyEssay\SecondValley\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.pdb
+E:\MyEssay\SecondValley\PerfectProgram\GeoCommon\bin\Debug\GeoCommon.dll
+E:\MyEssay\SecondValley\PerfectProgram\GeoCommon\bin\Debug\GeoCommon.pdb
+E:\MyEssay\SecondValley\PerfectProgram\GeoCommon\bin\Debug\ogr_csharp.dll
+E:\MyEssay\SecondValley\PerfectProgram\GeoCommon\bin\Debug\osr_csharp.dll
+E:\MyEssay\SecondValley\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.csproj.CoreCompileInputs.cache
+E:\MyEssay\SecondValley\PerfectProgram\GeoCommon\obj\Debug\GeoCommon.csproj.CopyComplete
+E:\MyEssay\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.CoreCompileInputs.cache
+E:\MyEssay\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.dll
+E:\MyEssay\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.pdb
+E:\MyEssay\TectonicReconstruction\GeoCommon\bin\Debug\GeoCommon.dll
+E:\MyEssay\TectonicReconstruction\GeoCommon\bin\Debug\GeoCommon.pdb
+E:\MyEssay\TectonicReconstruction\GeoCommon\bin\Debug\ogr_csharp.dll
+E:\MyEssay\TectonicReconstruction\GeoCommon\bin\Debug\osr_csharp.dll
+E:\MyEssay\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.CopyComplete
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\bin\Debug\GeoCommon.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\bin\Debug\GeoCommon.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\bin\Debug\ogr_csharp.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\bin\Debug\osr_csharp.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.CoreCompileInputs.cache
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.CopyComplete
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.dll
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.pdb
+E:\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csprojAssemblyReference.cache
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\bin\Debug\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\bin\Debug\GeoCommon.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\bin\Debug\ogr_csharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\bin\Debug\osr_csharp.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.CoreCompileInputs.cache
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.CopyComplete
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.pdb
+E:\PhD\MyEssay\SecondValley\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.AssemblyReference.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\bin\Debug\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\bin\Debug\GeoCommon.pdb
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\bin\Debug\ogr_csharp.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\bin\Debug\osr_csharp.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.AssemblyReference.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.CoreCompileInputs.cache
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.csproj.CopyComplete
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.dll
+E:\PhD\MyEssay\SecondValley\Manuscripts\Journal of Structrual geology\Second submission\TectonicReconstruction\GeoCommon\obj\Debug\GeoCommon.pdb

@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>FoldRestortEntry</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bezier" Version="0.9.4" />
+    <PackageReference Include="SharpMap" Version="1.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GdalLib\GdalLib.csproj" />
+    <ProjectReference Include="..\GeoCommon\GeoCommon.csproj" />
+    <ProjectReference Include="..\GeologicalEntity\GeologicalEntity.csproj" />
+    <ProjectReference Include="..\Triangle\Triangle.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="gdal_csharp">
+      <HintPath>..\TectonicReconstructEntry\bin\Debug\gdal_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="geometry4Sharp">
+      <HintPath>..\TectonicReconstructEntry\packages\geometry4Sharp.1.0.0\lib\netstandard2.0\geometry4Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MathNet.Numerics">
+      <HintPath>..\TectonicReconstructEntry\packages\mathnet.numerics\5.0.0\lib\net461\MathNet.Numerics.dll</HintPath>
+    </Reference>
+    <Reference Include="NetTopologySuite.Features">
+      <HintPath>..\TectonicReconstructEntry\packages\NetTopologySuite.Features.1.15.1\lib\net45\NetTopologySuite.Features.dll</HintPath>
+    </Reference>
+    <Reference Include="NetTopologySuite.IO.GeoTools">
+      <HintPath>..\TectonicReconstructEntry\packages\NetTopologySuite.IO.ShapeFile.1.15.3\lib\net45\NetTopologySuite.IO.GeoTools.dll</HintPath>
+    </Reference>
+    <Reference Include="NetTopologySuite.IO.ShapeFile">
+      <HintPath>..\TectonicReconstructEntry\packages\NetTopologySuite.IO.ShapeFile.1.15.3\lib\net45\NetTopologySuite.IO.ShapeFile.dll</HintPath>
+    </Reference>
+    <Reference Include="NetTopologySuite.IO.ShapeFile.Extended">
+      <HintPath>..\TectonicReconstructEntry\packages\NetTopologySuite.IO.ShapeFile.1.15.3\lib\net45\NetTopologySuite.IO.ShapeFile.Extended.dll</HintPath>
+    </Reference>
+    <Reference Include="ogr_csharp">
+      <HintPath>..\TectonicReconstructEntry\bin\Debug\ogr_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="osr_csharp">
+      <HintPath>..\TectonicReconstructEntry\bin\Debug\osr_csharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\PresentationCore.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationFramework">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\PresentationFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <HintPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\WindowsBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

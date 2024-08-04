@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TectonicReconstructEntry", "TectonicReconstructEntry.csproj", "{6426419C-DAA3-4590-A7AF-4F609F33BACA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B} = {F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}
+		{D9B82E0F-CA9E-4677-87B1-95E9A636BE3F} = {D9B82E0F-CA9E-4677-87B1-95E9A636BE3F}
+		{13D2406E-F986-468E-A5F0-9EEEB347AE03} = {13D2406E-F986-468E-A5F0-9EEEB347AE03}
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC} = {D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D} = {EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "..\Triangle\Triangle.csproj", "{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoCommon", "..\GeoCommon\GeoCommon.csproj", "{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GdalLib", "..\GdalLib\GdalLib.csproj", "{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B} = {F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC} = {D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeologicalEntity", "..\GeologicalEntity\GeologicalEntity.csproj", "{D9B82E0F-CA9E-4677-87B1-95E9A636BE3F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC} = {D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoldRestortEntry", "..\FoldRestortEntry\FoldRestortEntry.csproj", "{13D2406E-F986-468E-A5F0-9EEEB347AE03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6426419C-DAA3-4590-A7AF-4F609F33BACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6426419C-DAA3-4590-A7AF-4F609F33BACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6426419C-DAA3-4590-A7AF-4F609F33BACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6426419C-DAA3-4590-A7AF-4F609F33BACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7907A0A-B75F-400B-9E78-BFAD00DB4D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8263C8C-5754-4E84-88CF-AC9BFA6F6DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA0E9AA-0C76-4D86-B012-7F8A45B3A93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B82E0F-CA9E-4677-87B1-95E9A636BE3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B82E0F-CA9E-4677-87B1-95E9A636BE3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B82E0F-CA9E-4677-87B1-95E9A636BE3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B82E0F-CA9E-4677-87B1-95E9A636BE3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13D2406E-F986-468E-A5F0-9EEEB347AE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13D2406E-F986-468E-A5F0-9EEEB347AE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13D2406E-F986-468E-A5F0-9EEEB347AE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13D2406E-F986-468E-A5F0-9EEEB347AE03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {612C13FB-36D6-48E3-A286-87E1258D8C34}
+	EndGlobalSection
+EndGlobal
