@@ -7,13 +7,14 @@ Project name: TectonicReconstruction
 This project can reconstruct the denuded stratigraphic paleosurfaces of diverse folds, which belongs to the paper 《Reconstruction of denuded stratigraphic paleosurfaces of diverse folds based on
 structural element feature constraints》
 
-Code Language: C#
-
+Code Language: C#\n
 Recommend compilation tool: Visual Studio 2019 and More advanced
 Recommend compilation environment: FoldRestortEntry.dll---.NET Standard 2.0, other dlls---.NET Framework 4.7.2
 
 Folder introduction
+
 data_Dome: contain the study data of the Wulongshan Dome
+
 Output: save the reconstruction results. You could create one if this folder doesn't exist in the project.
 
 # 中文说明书
