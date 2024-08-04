@@ -13,9 +13,8 @@ Recommend compilation environment: FoldRestortEntry.dll---.NET Standard 2.0, oth
 
 Folder introduction
 
-data_Dome: contain the study data of the Wulongshan Dome
-
-Output: save the reconstruction results. You could create one if this folder doesn't exist in the project.
+data_Dome: contain the study data of the Wulongshan Dome  
+Output: save the reconstruction results. You could create one if this folder doesn't exist in the project.  
 
 # 中文说明书
 
