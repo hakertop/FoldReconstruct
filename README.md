@@ -4,8 +4,7 @@ Reconstruction of denuded stratigraphic paleosurfaces of diverse folds based on 
 # English description
 Project name: TectonicReconstruction
 
-This project can reconstruct the denuded stratigraphic paleosurfaces of diverse folds, which belongs to the paper：
-
+This project can reconstruct the denuded stratigraphic paleosurfaces of diverse folds, which belongs to the paper：  
 Shen, Y.-G., Li, A.-B., Fox, M., Lü, G.-N., 2024. Reconstruction of denuded stratigraphic paleosurfaces of diverse folds based on structural element feature constraints. Journal of Structural Geology 187, 105241. https://doi.org/10.1016/j.jsg.2024.105241
 
 
@@ -29,8 +28,7 @@ https://github.com/Loop3D/FoldOptLib
 
 程序项目说明TectonicReconstruction
 
-该项目完成了不同类型褶皱被剥蚀的古表面的重建工作，率属于论文
-
+该项目完成了不同类型褶皱被剥蚀的古表面的重建工作，率属于论文  
 Shen, Y.-G., Li, A.-B., Fox, M., Lü, G.-N., 2024. Reconstruction of denuded stratigraphic paleosurfaces of diverse folds based on structural element feature constraints. Journal of Structural Geology 187, 105241. https://doi.org/10.1016/j.jsg.2024.105241
 
 
